@@ -1,0 +1,4 @@
+tabs: ['src/App.jsx']
+terminal-one: |
+    yarn install
+    yarn dev
